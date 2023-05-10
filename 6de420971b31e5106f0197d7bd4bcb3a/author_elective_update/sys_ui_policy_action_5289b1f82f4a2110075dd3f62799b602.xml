@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>due_date</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-04 14:57:23</sys_created_on>
+        <sys_id>5289b1f82f4a2110075dd3f62799b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>due_date</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_5289b1f82f4a2110075dd3f62799b602</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-04 14:57:23</sys_updated_on>
+        <table>x_1027446_case_m_0_cm_functionalteamsdetails</table>
+        <ui_policy display_value="Due date">528971f82f4a2110075dd3f62799b6ff</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</application>
+        <file_path/>
+        <instance_id>bf103a51dbb16554b847ac44d4961994</instance_id>
+        <instance_name>dev168311</instance_name>
+        <name>sys_ui_policy_action_5289b1f82f4a2110075dd3f62799b602</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>due_date</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-04 14:57:23</sys_created_on><sys_id>5289b1f82f4a2110075dd3f62799b602</sys_id><sys_mod_count>0</sys_mod_count><sys_name>due_date</sys_name><sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package><sys_policy/><sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope><sys_update_name>sys_ui_policy_action_5289b1f82f4a2110075dd3f62799b602</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-04 14:57:23</sys_updated_on><table>x_1027446_case_m_0_cm_functionalteamsdetails</table><ui_policy display_value="Due date">528971f82f4a2110075dd3f62799b6ff</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-8254000</payload_hash>
+        <record_name>due_date</record_name>
+        <reverted_from/>
+        <source>65e420971b31e5106f0197d7bd4bcb3d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-04 14:57:23</sys_created_on>
+        <sys_id>9689b1f82f4a2110075dd3f62799b68d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1874cc5cadc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-04 14:57:23</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>de89b1f8194a2110d08861c43156b88c</update_guid>
+        <update_guid_history>de89b1f8194a2110d08861c43156b88c:-8254000</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 13:03:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>38c638d7681c4574b18472cad616e084</sys_id>
+        <sys_metadata>5289b1f82f4a2110075dd3f62799b602</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>due_date</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_scope_delete display_value="">2cda97cdf53c4c909cf58481df932639</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_5289b1f82f4a2110075dd3f62799b602</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_5289b1f82f4a2110075dd3f62799b602">9689b1f82f4a2110075dd3f62799b68d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 13:03:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

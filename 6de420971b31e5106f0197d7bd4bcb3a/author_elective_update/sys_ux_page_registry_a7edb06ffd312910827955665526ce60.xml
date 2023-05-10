@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>6bedb06f36312910e05d0c8b2f60e366</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>case-management</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-31 13:24:36</sys_created_on>
+        <sys_id>a7edb06ffd312910827955665526ce60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Case Management</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_ux_page_registry_a7edb06ffd312910827955665526ce60</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-31 13:24:36</sys_updated_on>
+        <title>Case Management</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</application>
+        <file_path/>
+        <instance_id>bf103a51dbb16554b847ac44d4961994</instance_id>
+        <instance_name>dev168311</instance_name>
+        <name>sys_ux_page_registry_a7edb06ffd312910827955665526ce60</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>6bedb06f36312910e05d0c8b2f60e366</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>case-management</path><root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-31 13:24:36</sys_created_on><sys_id>a7edb06ffd312910827955665526ce60</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Case Management</sys_name><sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package><sys_policy/><sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope><sys_update_name>sys_ux_page_registry_a7edb06ffd312910827955665526ce60</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-31 13:24:36</sys_updated_on><title>Case Management</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-1584208247</payload_hash>
+        <record_name>Case Management</record_name>
+        <reverted_from/>
+        <source>040536511b3121106f0197d7bd4bcb5a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-03-24 22:18:28</sys_created_on>
+        <sys_id>49c735671b3529106f0197d7bd4bcb32</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18715b3a7200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>09c73567cc352910dd7bb6a0cb6e6532</update_guid>
+        <update_guid_history>09c73567cc352910dd7bb6a0cb6e6532:-1584208247</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-31 17:37:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>ce74e30d9f144770a8f3252167fa0900</sys_id>
+        <sys_metadata>a7edb06ffd312910827955665526ce60</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Case Management</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_scope_delete display_value="">2cda97cdf53c4c909cf58481df932639</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_a7edb06ffd312910827955665526ce60</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_a7edb06ffd312910827955665526ce60">49c735671b3529106f0197d7bd4bcb32</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-31 17:37:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a668e05b1b31e5106f0197d7bd4bcb61" label="Request Details" max_length="40" name="x_1027446_case_m_0_cm_requestdetails" text_index="true" type="collection">
+        <element choice="1" label="Days" max_length="40" name="days" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Sunday" sequence="0" value="Sunday"/>
+                <element inactive_on_update="false" label="Monday" sequence="1" value="Monday"/>
+                <element inactive_on_update="false" label="Tuesday" sequence="2" value="Tuesday"/>
+                <element inactive_on_update="false" label="Wednesday" sequence="3" value="wenseday"/>
+                <element inactive_on_update="false" label="Thursday" sequence="4" value="Thursday"/>
+                <element inactive_on_update="false" label="Friday" sequence="5" value="Friday"/>
+                <element inactive_on_update="false" label="Saturday" sequence="6" value="Saturday"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="100" name="description" type="string"/>
+        <element label="Due date" mandatory="true" max_length="40" name="due_date" type="glide_date"/>
+        <element default="javascript:gs.getUser().getEmail()" label="From email" mandatory="true" max_length="40" name="from_email" type="string"/>
+        <element label="Is Review Required?" max_length="40" name="is_approval_required" type="boolean"/>
+        <element label="Is Recurring Request?" max_length="40" name="is_recurring" type="boolean"/>
+        <element default="false()" label="Is send Back" max_length="40" name="is_send_back" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Request Id" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element label="Parent request Id" max_length="40" name="parent_request_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Recurrence Date" max_length="40" name="recurrencedate" type="glide_date"/>
+        <element default="javascript:if (gs.getUser().isMemberOf('CM_Compliance'))current.requestor_dept = 'Compliance'; else current.requestor_dept = 'Accounting'" label="Requestor dept" max_length="40" name="requestor_dept" read_only="true" type="string"/>
+        <element default="javascript: gs.getUserName()" label="Request owner" mandatory="true" max_length="32" name="request_owner" reference="sys_user" type="reference"/>
+        <element label="Request reviewer" max_length="32" name="request_reviewer" reference="sys_user_grmember" reference_qual="group=0643ee992f822510075dd3f62799b68c^EQ" reference_qual_condition="group=0643ee992f822510075dd3f62799b68c^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="startdate" type="glide_date"/>
+        <element choice="3" label="state" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Initiate" sequence="0" value="initiate"/>
+                <element inactive_on_update="false" label="In progress" sequence="1" value="in_progress"/>
+                <element inactive_on_update="false" label="Completed" sequence="2" value="completed"/>
+            </choice>
+        </element>
+        <element choice="1" label="Status" max_length="40" name="status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Submitted" sequence="0" value="Submitted"/>
+                <element inactive_on_update="false" label="Approved by Reviewer" sequence="1" value="Approved by Reviewer"/>
+                <element inactive_on_update="false" label="Approved by Functional team" sequence="2" value="Approved by Functional team"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="Completed"/>
+                <element inactive_on_update="false" label="Sent Back" sequence="4" value="Sent Back"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Recurrence Pattern" max_length="40" name="u_choice_9" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Weekly" sequence="0" value="Weekly"/>
+                <element inactive_on_update="false" label="Monthly" sequence="1" value="Monthly"/>
+                <element inactive_on_update="false" label="Annually" sequence="2" value="Annually"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="3" value="Choice 1"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="4" value="Choice 2"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="5" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="End date" max_length="40" name="u_glide_date_13" type="glide_date"/>
+        <element attributes="base_start=true" default="x_1027446_case_m_0_cm_functionalteamsdetails" label="New Table Name" max_length="80" name="u_table_name_3" type="table_name"/>
+        <index name="index">
+            <element name="request_owner"/>
+        </index>
+        <index name="index2">
+            <element name="request_reviewer"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

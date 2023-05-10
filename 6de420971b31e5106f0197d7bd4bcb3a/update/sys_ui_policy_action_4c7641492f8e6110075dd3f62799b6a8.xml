@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field>request_reviewer</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-05 05:52:37</sys_created_on>
+        <sys_id>4c7641492f8e6110075dd3f62799b6a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>request_reviewer</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_4c7641492f8e6110075dd3f62799b6a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-05 05:52:37</sys_updated_on>
+        <table>x_1027446_case_m_0_cm_requestdetails</table>
+        <ui_policy display_value="Requestor and Reviwer should not be same user&#10;">047641492f8e6110075dd3f62799b6a4</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

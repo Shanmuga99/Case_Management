@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b72e5b942f2a2910075dd3f62799b6c5" extends="sysapproval_approver" label="Cm_approval" max_length="40" name="x_1027446_case_m_0_cm_approval" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

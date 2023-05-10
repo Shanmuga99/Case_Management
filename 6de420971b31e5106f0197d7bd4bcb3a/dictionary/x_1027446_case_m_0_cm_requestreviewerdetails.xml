@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="183637571b3de5106f0197d7bd4bcbe5" label="CM_RequestReviewerDetails" max_length="40" name="x_1027446_case_m_0_cm_requestreviewerdetails" text_index="true" type="collection">
+        <element label="Current reviewer" max_length="40" name="current_reviewer" type="string"/>
+        <element label="Is active" max_length="40" name="is_active" type="boolean"/>
+        <element label="Request Id" max_length="32" name="request_id" reference="x_1027446_case_m_0_cm_requestdetails" type="reference"/>
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Req reviewer Id" max_length="40" name="req_reviewer_id" type="string" use_dynamic_default="true"/>
+        <element choice="1" choice_field="status" choice_table="x_1027446_test_document_approval" default="submitted" label="Status" max_length="40" name="statusstatus" type="string">
+            <choice/>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="request_id"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

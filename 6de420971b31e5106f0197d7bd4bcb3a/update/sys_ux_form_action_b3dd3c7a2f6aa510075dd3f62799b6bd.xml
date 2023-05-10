@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action">
+    <sys_ux_form_action action="INSERT_OR_UPDATE">
+        <action_type>ui_action</action_type>
+        <active>true</active>
+        <declarative_action/>
+        <description/>
+        <name>Approve </name>
+        <specificity>0</specificity>
+        <sys_class_name>sys_ux_form_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-05 12:15:57</sys_created_on>
+        <sys_id>b3dd3c7a2f6aa510075dd3f62799b6bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approve </sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_ux_form_action_b3dd3c7a2f6aa510075dd3f62799b6bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-05 12:15:57</sys_updated_on>
+        <table>global</table>
+        <ui_action display_value="Approve  1">dbadb4fa2f2aa510075dd3f62799b6b1</ui_action>
+    </sys_ux_form_action>
+</record_update>

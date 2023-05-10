@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "table" : "x_1027446_case_m_0_cm_requestdetails",
+  "sysId" : "0071f60a2fa6a110075dd3f62799b68e"
+}</macroponent_config>
+        <screen display_value="CM_RequestDetails Record Page">993879a71b3529106f0197d7bd4bcb90</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-03 13:29:02</sys_created_on>
+        <sys_id>ba6b728a2fe6a110075dd3f62799b6ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_ba6b728a2fe6a110075dd3f62799b6ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-03 13:29:02</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

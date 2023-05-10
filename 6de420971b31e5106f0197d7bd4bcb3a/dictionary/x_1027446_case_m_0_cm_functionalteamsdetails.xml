@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d2d254631bbde5106f0197d7bd4bcbef" label="CM_FunctionalTeamsDetails" max_length="40" name="x_1027446_case_m_0_cm_functionalteamsdetails" text_index="true" type="collection">
+        <element label="Action" max_length="40" name="action" type="boolean"/>
+        <element label="Comments" max_length="100" name="comments" type="string"/>
+        <element label="Comments form Fn team" max_length="40" name="comments_form_fn_team" type="string"/>
+        <element label="Due date" max_length="40" name="due_date" type="glide_date"/>
+        <element label="Func grp Id" max_length="40" name="func_grp_id" reference="x_1027446_case_m_0_cm_functionalgrouplookupdetails" type="reference"/>
+        <element label="Func team Name" max_length="40" name="func_team_id" type="string"/>
+        <element label="Is active" max_length="40" name="is_active" type="boolean"/>
+        <element label="Request Id" max_length="32" name="request_id" read_only="true" reference="x_1027446_case_m_0_cm_requestdetails" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element display="true" label="Team Name" max_length="32" name="team_name" reference="sys_user_grmember" reference_qual="group=a77262992f822510075dd3f62799b680^EQ" reference_qual_condition="group=a77262992f822510075dd3f62799b680^EQ" type="reference"/>
+        <index name="index">
+            <element name="request_id"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index3">
+            <element name="team_name"/>
+        </index>
+    </element>
+</database>

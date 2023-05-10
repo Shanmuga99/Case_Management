@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="Case Management search profile">63edb06f6d312910f28ee62739f80766</profile>
+        <search_source display_value="CM_FunctionalGroupLookupDetails">2c0ef46f1b3129106f0197d7bd4bcb63</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-31 13:24:54</sys_created_on>
+        <sys_id>680ef46f1b3129106f0197d7bd4bcb65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Case Management search profile.CM_FunctionalGroupLookupDetails</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_680ef46f1b3129106f0197d7bd4bcb65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-31 13:24:54</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="func_team_name" table="x_1027446_case_m_0_cm_functionalgrouplookupdetails" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>func_team_name</element>
+            <name>x_1027446_case_m_0_cm_functionalgrouplookupdetails</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-05 07:21:38</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>func_team_name</sys_name>
+            <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+            <sys_update_name>sys_choice_x_1027446_case_m_0_cm_functionalgrouplookupdetails_func_team_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-05 07:21:38</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Compliance</dependent_value>
+            <element>func_team_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Capital Markets</label>
+            <language>en</language>
+            <name>x_1027446_case_m_0_cm_functionalgrouplookupdetails</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5acd3dd2f0a2510075dd3f62799b60e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 11:27:23</sys_updated_on>
+            <value>Capital Markets</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Compliance</dependent_value>
+            <element>func_team_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Client Service</label>
+            <language>en</language>
+            <name>x_1027446_case_m_0_cm_functionalgrouplookupdetails</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>31acd3dd2f0a2510075dd3f62799b610</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 11:27:23</sys_updated_on>
+            <value>Client Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Compliance</dependent_value>
+            <element>func_team_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Communications</label>
+            <language>en</language>
+            <name>x_1027446_case_m_0_cm_functionalgrouplookupdetails</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bdacd3dd2f0a2510075dd3f62799b610</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 11:27:23</sys_updated_on>
+            <value>Communications</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Accounting</dependent_value>
+            <element>func_team_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Investor Administration</label>
+            <language>en</language>
+            <name>x_1027446_case_m_0_cm_functionalgrouplookupdetails</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fdacd3dd2f0a2510075dd3f62799b615</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 11:28:43</sys_updated_on>
+            <value>Investor Administration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Compliance</dependent_value>
+            <element>func_team_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Investor Relations</label>
+            <language>en</language>
+            <name>x_1027446_case_m_0_cm_functionalgrouplookupdetails</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3dacd3dd2f0a2510075dd3f62799b611</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 11:28:42</sys_updated_on>
+            <value>Investor Relations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Accounting</dependent_value>
+            <element>func_team_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Marketing Reporting</label>
+            <language>en</language>
+            <name>x_1027446_case_m_0_cm_functionalgrouplookupdetails</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7dacd3dd2f0a2510075dd3f62799b616</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 11:28:43</sys_updated_on>
+            <value>Marketing Reporting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Accounting</dependent_value>
+            <element>func_team_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tax</label>
+            <language>en</language>
+            <name>x_1027446_case_m_0_cm_functionalgrouplookupdetails</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9acd3dd2f0a2510075dd3f62799b617</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 11:28:43</sys_updated_on>
+            <value>Tax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Accounting</dependent_value>
+            <element>func_team_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Treasury</label>
+            <language>en</language>
+            <name>x_1027446_case_m_0_cm_functionalgrouplookupdetails</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79acd3dd2f0a2510075dd3f62799b618</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 11:28:43</sys_updated_on>
+            <value>Treasury</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

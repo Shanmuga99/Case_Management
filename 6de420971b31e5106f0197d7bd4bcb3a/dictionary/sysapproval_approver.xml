@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="383cc88324b021108c8bc6863d3fad15" label="Approval" max_length="40" name="sysapproval_approver" text_index="true" type="collection">
+        <element label="Status" max_length="40" name="x_1027446_case_m_0_statusstatus" type="string"/>
+    </element>
+</database>

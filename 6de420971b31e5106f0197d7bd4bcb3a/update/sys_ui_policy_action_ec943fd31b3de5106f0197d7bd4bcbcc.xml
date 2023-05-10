@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>request_reviewer</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-31 08:04:03</sys_created_on>
+        <sys_id>ec943fd31b3de5106f0197d7bd4bcbcc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>request_reviewer</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ec943fd31b3de5106f0197d7bd4bcbcc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-31 08:05:57</sys_updated_on>
+        <table>x_1027446_case_m_0_cm_requestdetails</table>
+        <ui_policy display_value="Mandatory when Is Review Required? is selected.">50943fd31b3de5106f0197d7bd4bcbc9</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

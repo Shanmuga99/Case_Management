@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="CM_LookupDetails">680ef46f1b3129106f0197d7bd4bcb89</ais_search_source>
+        <label>CM_LookupDetails</label>
+        <name>CM_LookupDetails</name>
+        <order>400</order>
+        <search_context_config display_value="Case Management AI Search Configuration">a7edb06f733129104cee30d9c1d55761</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-31 13:24:55</sys_created_on>
+        <sys_id>e80ef46f1b3129106f0197d7bd4bcb8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CM_LookupDetails</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_search_filter_e80ef46f1b3129106f0197d7bd4bcb8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-31 13:24:55</sys_updated_on>
+    </sys_search_filter>
+</record_update>

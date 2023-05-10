@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Glide Form Test default">e6e1ef6f2fcea510075dd3f62799b6fb</macroponent>
+        <name>form_1/sections</name>
+        <preset/>
+        <required_translations/>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.imports
+ */
+function evaluateProperty({
+    api
+}) {
+    if (api.data.glide_form_1.nowRecordFormBlob) {
+        var sections = api.data.glide_form_1.nowRecordFormBlob.sections;
+        if (sections.length > 0 && api.data.document_approval_internationalization_support_1 && api.data.document_approval_internationalization_support_1.output) {
+            sections[0].label = api.data.document_approval_internationalization_support_1.output['document_approval_form_title'];
+
+            return sections;
+        } else {
+            return '';
+        }
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 12:39:19</sys_created_on>
+        <sys_id>9f307f632f42e510075dd3f62799b650</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>form_1/sections</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_ux_client_script_9f307f632f42e510075dd3f62799b650</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 12:39:19</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

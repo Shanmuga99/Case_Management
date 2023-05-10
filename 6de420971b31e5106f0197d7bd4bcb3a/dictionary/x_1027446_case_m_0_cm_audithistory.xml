@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f9576c671bfde5106f0197d7bd4bcbac" label="CM_AuditHistory" max_length="40" name="x_1027446_case_m_0_cm_audithistory" text_index="true" type="collection">
+        <element label="Action" max_length="32" name="action" type="string"/>
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Audit Id" max_length="40" name="audit_id" type="string" use_dynamic_default="true"/>
+        <element label="Comments" max_length="40" name="comments" type="string"/>
+        <element label="Request Id" max_length="32" name="request_id" reference="x_1027446_case_m_0_cm_requestdetails" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="request_id"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

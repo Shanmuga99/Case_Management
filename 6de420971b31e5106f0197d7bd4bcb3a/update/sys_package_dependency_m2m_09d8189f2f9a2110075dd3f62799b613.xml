@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Approval Engine" source="com.snc.approvals">743cc88324b021108c8bc6863d3fad13</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-24 12:35:23</sys_created_on>
+        <sys_id>09d8189f2f9a2110075dd3f62799b613</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-24 12:35:23</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

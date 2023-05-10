@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4558f5f12fc2e510075dd3f62799b6d8" extends="task" label="My Task " max_length="40" name="x_1027446_case_m_0_my_task" type="collection">
+        <element attributes="encode_utf8" label="Parent Request Id" max_length="32" name="parent_request_id" read_only="true" reference="x_1027446_case_m_0_cm_requestdetails" reference_floats="true" type="reference"/>
+        <element label="Request Id" max_length="40" name="request_id" read_only="true" type="string"/>
+    </element>
+</database>

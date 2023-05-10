@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+    <par_dashboard_canvas action="DELETE">
+        <dashboard display_value="Trial">c41309e31b7129106f0197d7bd4bcba4</dashboard>
+        <dashboard_tab display_value="Tab">c01309e31b7129106f0197d7bd4bcbae</dashboard_tab>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-31 13:47:00</sys_created_on>
+        <sys_id>d01309e31b7129106f0197d7bd4bcbb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>par_dashboard_canvas_d01309e31b7129106f0197d7bd4bcbb0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-31 13:47:00</sys_updated_on>
+    </par_dashboard_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</application>
+        <file_path/>
+        <instance_id>bf103a51dbb16554b847ac44d4961994</instance_id>
+        <instance_name>dev168311</instance_name>
+        <name>par_dashboard_canvas_d01309e31b7129106f0197d7bd4bcbb0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="Trial">c41309e31b7129106f0197d7bd4bcba4</dashboard><dashboard_tab display_value="Tab">c01309e31b7129106f0197d7bd4bcbae</dashboard_tab><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-31 13:47:00</sys_created_on><sys_id>d01309e31b7129106f0197d7bd4bcbb0</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package><sys_policy/><sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope><sys_update_name>par_dashboard_canvas_d01309e31b7129106f0197d7bd4bcbb0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-31 13:47:00</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+        <payload_hash>-1701091262</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>65e420971b31e5106f0197d7bd4bcb3d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-31 13:47:00</sys_created_on>
+        <sys_id>981309e31b7129106f0197d7bd4bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18737ebe9c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-31 13:47:00</sys_updated_on>
+        <type>PAR Dashboard Page Canvas</type>
+        <update_guid>d01309e3117129101fa446106c4c9eb1</update_guid>
+        <update_guid_history>d01309e3117129101fa446106c4c9eb1:-1701091262</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5b17b5671b3529106f0197d7bd4bcbc6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-31 17:34:24</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_canvas">par_dashboard_canvas</sys_db_object>
+        <sys_id>021c39361a7848e88238bd27b9cb2440</sys_id>
+        <sys_metadata>d01309e31b7129106f0197d7bd4bcbb0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_scope_delete display_value="">2cda97cdf53c4c909cf58481df932639</sys_scope_delete>
+        <sys_update_name>par_dashboard_canvas_d01309e31b7129106f0197d7bd4bcbb0</sys_update_name>
+        <sys_update_version display_value="par_dashboard_canvas_d01309e31b7129106f0197d7bd4bcbb0">981309e31b7129106f0197d7bd4bcbb1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-31 17:34:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

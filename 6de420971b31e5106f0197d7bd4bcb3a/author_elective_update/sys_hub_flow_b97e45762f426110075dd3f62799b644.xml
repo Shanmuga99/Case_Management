@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from>
+        <copied_from_name>FlowTemplate_Empty</copied_from_name>
+        <description/>
+        <internal_name>master_flow</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Master flow</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-10 16:57:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b97e45762f426110075dd3f62799b644</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master flow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_hub_flow_b97e45762f426110075dd3f62799b644</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-10 16:57:03</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=b97e45762f426110075dd3f62799b644"/>
+    <sys_variable_value action="DELETE" query="document_key=b97e45762f426110075dd3f62799b644"/>
+    <sys_hub_trigger_instance action="DELETE" query="flow=b97e45762f426110075dd3f62799b644"/>
+    <sys_hub_flow_stage action="DELETE" query="flow=b97e45762f426110075dd3f62799b644"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=b97e45762f426110075dd3f62799b644^sys_idNOT INf97e45762f426110075dd3f62799b646"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>b97e45762f426110075dd3f62799b644</id>
+        <name>Master flow</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-10 16:57:03</sys_created_on>
+        <sys_id>f97e45762f426110075dd3f62799b646</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-10 16:57:03</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="DELETE" query="flow_catalog_model=f97e45762f426110075dd3f62799b646"/>
+    <sys_hub_flow_input action="DELETE" query="model=b97e45762f426110075dd3f62799b644"/>
+    <sys_hub_flow_output action="DELETE" query="model=b97e45762f426110075dd3f62799b644"/>
+    <sys_hub_alias_mapping action="DELETE" query="source_id=b97e45762f426110075dd3f62799b644"/>
+    <sys_hub_action_instance action="DELETE" query="flow=b97e45762f426110075dd3f62799b644"/>
+    <sys_hub_sub_flow_instance action="DELETE" query="flow=b97e45762f426110075dd3f62799b644"/>
+    <sys_hub_flow_logic action="DELETE" query="flow=b97e45762f426110075dd3f62799b644"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=b97e45762f426110075dd3f62799b644"/>
+    <sys_hub_flow_variable action="DELETE" query="model=b97e45762f426110075dd3f62799b644"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_flow_input_b97e45762f426110075dd3f62799b644"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_input_b97e45762f426110075dd3f62799b644"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_flow_output_b97e45762f426110075dd3f62799b644"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_output_b97e45762f426110075dd3f62799b644"/>
+    <sys_flow_trigger_plan action="DELETE" query="plan_id=b97e45762f426110075dd3f62799b644"/>
+    <sys_flow_subflow_plan action="DELETE" query="plan_id=b97e45762f426110075dd3f62799b644"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</application>
+        <file_path/>
+        <instance_id>bf103a51dbb16554b847ac44d4961994</instance_id>
+        <instance_name>dev168311</instance_name>
+        <name>sys_hub_flow_b97e45762f426110075dd3f62799b644</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from><copied_from_name>FlowTemplate_Empty</copied_from_name><description/><internal_name>master_flow</internal_name><label_cache>[]</label_cache><latest_snapshot/><master_snapshot/><name>Master flow</name><natlang/><outputs/><pre_compiled>false</pre_compiled><remote_trigger_id/><run_as>user</run_as><run_with_roles/><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-10 16:57:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b97e45762f426110075dd3f62799b644</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Master flow</sys_name><sys_overrides/><sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package><sys_policy/><sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope><sys_update_name>sys_hub_flow_b97e45762f426110075dd3f62799b644</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-10 16:57:03</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=b97e45762f426110075dd3f62799b644"/><sys_variable_value action="delete_multiple" query="document_key=b97e45762f426110075dd3f62799b644"/><sys_hub_trigger_instance action="delete_multiple" query="flow=b97e45762f426110075dd3f62799b644"/><sys_hub_flow_stage action="delete_multiple" query="flow=b97e45762f426110075dd3f62799b644"/><sys_flow_cat_variable_model action="delete_multiple" query="id=b97e45762f426110075dd3f62799b644^sys_idNOT INf97e45762f426110075dd3f62799b646"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>b97e45762f426110075dd3f62799b644</id><name>Master flow</name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-10 16:57:03</sys_created_on><sys_id>f97e45762f426110075dd3f62799b646</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-10 16:57:03</sys_updated_on></sys_flow_cat_variable_model><sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=f97e45762f426110075dd3f62799b646"/><sys_hub_flow_input action="delete_multiple" query="model=b97e45762f426110075dd3f62799b644"/><sys_hub_flow_output action="delete_multiple" query="model=b97e45762f426110075dd3f62799b644"/><sys_hub_alias_mapping action="delete_multiple" query="source_id=b97e45762f426110075dd3f62799b644"/><sys_hub_action_instance action="delete_multiple" query="flow=b97e45762f426110075dd3f62799b644"/><sys_hub_sub_flow_instance action="delete_multiple" query="flow=b97e45762f426110075dd3f62799b644"/><sys_hub_flow_logic action="delete_multiple" query="flow=b97e45762f426110075dd3f62799b644"/><sys_hub_pill_compound action="delete_multiple" query="attached_to=b97e45762f426110075dd3f62799b644"/><sys_hub_flow_variable action="delete_multiple" query="model=b97e45762f426110075dd3f62799b644"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_b97e45762f426110075dd3f62799b644"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_b97e45762f426110075dd3f62799b644"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_b97e45762f426110075dd3f62799b644"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_b97e45762f426110075dd3f62799b644"/><sys_flow_trigger_plan action="delete_multiple" query="plan_id=b97e45762f426110075dd3f62799b644"/><sys_flow_subflow_plan action="delete_multiple" query="plan_id=b97e45762f426110075dd3f62799b644"/></record_update>]]></payload>
+        <payload_hash>-75417106</payload_hash>
+        <record_name>Master flow</record_name>
+        <reverted_from/>
+        <source>65e420971b31e5106f0197d7bd4bcb3d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-10 16:57:04</sys_created_on>
+        <sys_id>7d7e45762f426110075dd3f62799b64d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1876c1984370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-10 16:57:04</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>357e4576974261105450740ec89f894d</update_guid>
+        <update_guid_history>357e4576974261105450740ec89f894d:-75417106</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-11 06:47:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>567a129d41ba461f994959478f977459</sys_id>
+        <sys_metadata>b97e45762f426110075dd3f62799b644</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master flow</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_scope_delete display_value="">2cda97cdf53c4c909cf58481df932639</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_b97e45762f426110075dd3f62799b644</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_b97e45762f426110075dd3f62799b644">7d7e45762f426110075dd3f62799b64d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-11 06:47:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

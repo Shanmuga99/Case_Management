@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c1ad09422f2e6110075dd3f62799b646" extends="x_1027446_case_m_0_cm_functionalteamsdetails" label="Func team" max_length="40" name="x_1027446_case_m_0_func_team" type="collection"/>
+</database>
