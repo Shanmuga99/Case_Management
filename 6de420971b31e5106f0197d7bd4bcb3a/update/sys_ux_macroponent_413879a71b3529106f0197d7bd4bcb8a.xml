@@ -2706,6 +2706,181 @@
   "styles" : {
     "width" : "100%"
   }
+}, {
+  "elementId" : "stepper_1",
+  "elementLabel" : "Stepper 1",
+  "propertyValues" : {
+    "selectedItem" : {
+      "type" : "DATA_OUTPUT_BINDING",
+      "binding" : {
+        "address" : [ "record", "form", "fields", "status", "value" ]
+      }
+    },
+    "showCompletedCount" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "items" : {
+      "type" : "LIST_CONTAINER",
+      "container" : [ {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "id" : {
+            "type" : "JSON_LITERAL",
+            "value" : "Submitted"
+          },
+          "label" : {
+            "type" : "TRANSLATION_LITERAL",
+            "value" : {
+              "code" : null,
+              "message" : "Submitted",
+              "comment" : ""
+            }
+          },
+          "progress" : {
+            "type" : "JSON_LITERAL",
+            "value" : "none"
+          },
+          "disabled" : {
+            "type" : "JSON_LITERAL",
+            "value" : true
+          }
+        }
+      }, {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "id" : {
+            "type" : "JSON_LITERAL",
+            "value" : "Sent Back"
+          },
+          "label" : {
+            "type" : "TRANSLATION_LITERAL",
+            "value" : {
+              "code" : null,
+              "message" : "Sent Back",
+              "comment" : ""
+            }
+          },
+          "disabled" : {
+            "type" : "JSON_LITERAL",
+            "value" : true
+          }
+        }
+      }, {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "id" : {
+            "type" : "JSON_LITERAL",
+            "value" : "Approved by Reviewer"
+          },
+          "label" : {
+            "type" : "TRANSLATION_LITERAL",
+            "value" : {
+              "code" : null,
+              "message" : "Approved by Reviewer",
+              "comment" : ""
+            }
+          },
+          "progress" : {
+            "type" : "JSON_LITERAL",
+            "value" : "none"
+          },
+          "disabled" : {
+            "type" : "JSON_LITERAL",
+            "value" : true
+          }
+        }
+      }, {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "id" : {
+            "type" : "JSON_LITERAL",
+            "value" : "Approved by Functional team"
+          },
+          "label" : {
+            "type" : "TRANSLATION_LITERAL",
+            "value" : {
+              "code" : null,
+              "message" : "Approved by Functional team",
+              "comment" : ""
+            }
+          },
+          "progress" : {
+            "type" : "JSON_LITERAL",
+            "value" : "none"
+          },
+          "disabled" : {
+            "type" : "JSON_LITERAL",
+            "value" : true
+          }
+        }
+      }, {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "id" : {
+            "type" : "JSON_LITERAL",
+            "value" : "Completed"
+          },
+          "label" : {
+            "type" : "TRANSLATION_LITERAL",
+            "value" : {
+              "code" : null,
+              "message" : "Completed",
+              "comment" : ""
+            }
+          },
+          "progress" : {
+            "type" : "JSON_LITERAL",
+            "value" : "none"
+          },
+          "disabled" : {
+            "type" : "JSON_LITERAL",
+            "value" : true
+          }
+        }
+      }, {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "id" : {
+            "type" : "JSON_LITERAL",
+            "value" : "Cancelled"
+          },
+          "label" : {
+            "type" : "TRANSLATION_LITERAL",
+            "value" : {
+              "code" : null,
+              "message" : "Cancelled",
+              "comment" : ""
+            }
+          },
+          "disabled" : {
+            "type" : "JSON_LITERAL",
+            "value" : true
+          }
+        }
+      } ]
+    },
+    "hideNumbers" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : "",
+  "definition" : {
+    "id" : "e72c75f648cda0becbd28db9a44b569f",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
 } ]</composition>
         <da_relay_models/>
         <data>[ {
@@ -2902,7 +3077,7 @@
   "default" : {
     "children" : null,
     "isInline" : null,
-    "items" : [{"element_id":"top_container","styles":{}},{"element_id":"ribbon_container","styles":{}},{"element_id":"warning_messages_container","styles":{}},{"element_id":"resizable_panes","styles":{"flex":"none"}}],
+    "items" : [{"element_id":"top_container","styles":{}},{"element_id":"ribbon_container","styles":{}},{"element_id":"stepper_1","styles":{}},{"element_id":"warning_messages_container","styles":{}},{"element_id":"resizable_panes","styles":{"flex":"none"}}],
     "root" : null,
     "rules" : null,
     "styles" : {"overflow-x":"auto","width":"100%","height":"100%","display":"grid","grid-template-rows":"max-content max-content max-content minmax(0px, 1fr)","grid-template-columns":"1fr"},
@@ -3045,7 +3220,19 @@
   "message" : "Activity",
   "comment" : ""
 }, {
+  "message" : "Approved by Functional team",
+  "comment" : ""
+}, {
+  "message" : "Approved by Reviewer",
+  "comment" : ""
+}, {
   "message" : "Cancel",
+  "comment" : ""
+}, {
+  "message" : "Cancelled",
+  "comment" : ""
+}, {
+  "message" : "Completed",
   "comment" : ""
 }, {
   "message" : "Compose",
@@ -3066,6 +3253,12 @@
   "message" : "Security constraints prevent access to requested page",
   "comment" : ""
 }, {
+  "message" : "Sent Back",
+  "comment" : ""
+}, {
+  "message" : "Submitted",
+  "comment" : ""
+}, {
   "message" : "Yes",
   "comment" : ""
 } ]</required_translations>
@@ -3080,14 +3273,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-31 17:39:10</sys_created_on>
         <sys_id>413879a71b3529106f0197d7bd4bcb8a</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>21</sys_mod_count>
         <sys_name>CM_RequestDetails Record Page</sys_name>
         <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
         <sys_update_name>sys_ux_macroponent_413879a71b3529106f0197d7bd4bcb8a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-11 13:58:04</sys_updated_on>
+        <sys_updated_on>2023-05-16 17:19:27</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=413879a71b3529106f0197d7bd4bcb8a"/>
 </record_update>

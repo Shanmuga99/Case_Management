@@ -32,7 +32,7 @@
                 <element inactive_on_update="false" label="Completed" sequence="2" value="completed"/>
             </choice>
         </element>
-        <element choice="1" label="Status" max_length="40" name="status" type="string">
+        <element choice="1" label="Status" max_length="40" name="status" read_only="true" type="string">
             <choice>
                 <element inactive_on_update="false" label="Submitted" sequence="0" value="Submitted"/>
                 <element inactive_on_update="false" label="Approved by Reviewer" sequence="1" value="Approved by Reviewer"/>
