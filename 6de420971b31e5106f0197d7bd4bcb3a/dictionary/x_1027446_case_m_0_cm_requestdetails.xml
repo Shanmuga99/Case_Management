@@ -40,6 +40,7 @@
                 <element inactive_on_update="false" label="Completed" sequence="3" value="Completed"/>
                 <element inactive_on_update="false" label="Sent Back" sequence="4" value="Sent Back"/>
                 <element inactive_on_update="false" label="Cancelled" sequence="5" value="Cancelled"/>
+                <element inactive_on_update="false" label="test" sequence="6" value="test"/>
             </choice>
         </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
