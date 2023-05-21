@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_role">
+    <sys_ui_action_role action="DELETE">
+        <sys_class_name>sys_ui_action_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-17 10:55:25</sys_created_on>
+        <sys_id>e43e9e2a2fbe2510075dd3f62799b64c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1027446_case_m_0.admin</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_ui_action display_value="">622e9e6a2fbe2510075dd3f62799b606</sys_ui_action>
+        <sys_update_name>sys_ui_action_role_e43e9e2a2fbe2510075dd3f62799b64c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-17 10:55:25</sys_updated_on>
+        <sys_user_role display_value="x_1027446_case_m_0.admin" name="x_1027446_case_m_0.admin">fde420971b31e5106f0197d7bd4bcb54</sys_user_role>
+    </sys_ui_action_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</application>
+        <file_path/>
+        <instance_id>bf103a51dbb16554b847ac44d4961994</instance_id>
+        <instance_name>dev168311</instance_name>
+        <name>sys_ui_action_role_e43e9e2a2fbe2510075dd3f62799b64c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_role"><sys_ui_action_role action="INSERT_OR_UPDATE"><sys_class_name>sys_ui_action_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-17 10:55:25</sys_created_on><sys_id>e43e9e2a2fbe2510075dd3f62799b64c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1027446_case_m_0.admin</sys_name><sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package><sys_policy/><sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope><sys_ui_action display_value="">622e9e6a2fbe2510075dd3f62799b606</sys_ui_action><sys_update_name>sys_ui_action_role_e43e9e2a2fbe2510075dd3f62799b64c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-17 10:55:25</sys_updated_on><sys_user_role display_value="x_1027446_case_m_0.admin" name="x_1027446_case_m_0.admin">fde420971b31e5106f0197d7bd4bcb54</sys_user_role></sys_ui_action_role></record_update>]]></payload>
+        <payload_hash>-743883124</payload_hash>
+        <record_name>.x_1027446_case_m_0.admin</record_name>
+        <reverted_from/>
+        <source>156a5a1c2fbaa110075dd3f62799b615</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-17 10:55:25</sys_created_on>
+        <sys_id>8d8e9a6a2fbe2510075dd3f62799b60d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1882959b8f10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-17 10:55:25</sys_updated_on>
+        <type>UI Action Role</type>
+        <update_guid>c58e9a6a55be2510d621631cff450d0d</update_guid>
+        <update_guid_history>c58e9a6a55be2510d621631cff450d0d:-743883124</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-19 08:35:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_action_role">sys_ui_action_role</sys_db_object>
+        <sys_id>278a9f8ea87d4a2f87c6cd00b69e2f59</sys_id>
+        <sys_metadata>e43e9e2a2fbe2510075dd3f62799b64c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1027446_case_m_0.admin</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_scope_delete display_value="">2cda97cdf53c4c909cf58481df932639</sys_scope_delete>
+        <sys_update_name>sys_ui_action_role_e43e9e2a2fbe2510075dd3f62799b64c</sys_update_name>
+        <sys_update_version display_value="sys_ui_action_role_e43e9e2a2fbe2510075dd3f62799b64c">8d8e9a6a2fbe2510075dd3f62799b60d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-19 08:35:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
