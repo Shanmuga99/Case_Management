@@ -5,21 +5,21 @@
         <advanced>false</advanced>
         <condition/>
         <description/>
-        <name>x_1027446_case_m_0_my_task</name>
-        <operation display_value="create">create</operation>
+        <name>x_1027446_case_m_0_cm_requestdetails.comments</name>
+        <operation display_value="write">write</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-04-07 17:26:12</sys_created_on>
-        <sys_id>e35879f12fc2e510075dd3f62799b692</sys_id>
+        <sys_created_on>2023-05-22 13:34:55</sys_created_on>
+        <sys_id>85b2f4d42fcfa510075dd3f62799b6ab</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_1027446_case_m_0_my_task</sys_name>
+        <sys_name>x_1027446_case_m_0_cm_requestdetails.comments</sys_name>
         <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
-        <sys_update_name>sys_security_acl_e35879f12fc2e510075dd3f62799b692</sys_update_name>
+        <sys_update_name>sys_security_acl_85b2f4d42fcfa510075dd3f62799b6ab</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-07 17:26:12</sys_updated_on>
+        <sys_updated_on>2023-05-22 13:34:55</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

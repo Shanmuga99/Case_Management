@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">f32839a786352910f8605be72efdcb54</canvas>
+        <component display_value="">3a64f550256090d9578ede76158e899c</component>
+        <component_props>{"variant":"header-secondary","label":"My Work","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
+        <h>3</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-31 17:39:06</sys_created_on>
+        <sys_id>332839a7153529108b78abd97467cb5a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>par_dashboard_widget_332839a7153529108b78abd97467cb5a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-22 08:22:39</sys_updated_on>
+        <visualization/>
+        <w>12</w>
+        <x>0</x>
+        <y>20</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</application>
+        <file_path/>
+        <instance_id>bf103a51dbb16554b847ac44d4961994</instance_id>
+        <instance_name>dev168311</instance_name>
+        <name>par_dashboard_widget_332839a7153529108b78abd97467cb5a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">f32839a786352910f8605be72efdcb54</canvas><component display_value="">3a64f550256090d9578ede76158e899c</component><component_props>{"variant":"header-secondary","label":"My Work","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props><h>3</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-31 17:39:06</sys_created_on><sys_id>332839a7153529108b78abd97467cb5a</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package><sys_policy/><sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope><sys_update_name>par_dashboard_widget_332839a7153529108b78abd97467cb5a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-22 08:22:39</sys_updated_on><visualization/><w>12</w><x>0</x><y>20</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-195434312</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>156a5a1c2fbaa110075dd3f62799b615</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-22 08:22:39</sys_created_on>
+        <sys_id>808beb8c2fc7a510075dd3f62799b6e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188428da7fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-22 08:22:39</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>888beb8c88c7a510a0b2fd477447dae0</update_guid>
+        <update_guid_history>888beb8c88c7a510a0b2fd477447dae0:-195434312,0c5b678c47c7a51049830422f9e2a5d6:872995470,c45b678c8ec7a510f22b0f5df546abd5:-544081675</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">ff0c2b8c2fc7a510075dd3f62799b64e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-22 08:25:06</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>453f5bbbb7994c8da925803a985090c9</sys_id>
+        <sys_metadata>332839a7153529108b78abd97467cb5a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_scope_delete display_value="">2cda97cdf53c4c909cf58481df932639</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_332839a7153529108b78abd97467cb5a</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_332839a7153529108b78abd97467cb5a">808beb8c2fc7a510075dd3f62799b6e1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-22 08:25:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

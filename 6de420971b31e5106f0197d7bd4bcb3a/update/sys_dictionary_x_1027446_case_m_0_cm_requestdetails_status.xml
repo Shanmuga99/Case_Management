@@ -3,7 +3,7 @@
         <active>true</active>
         <array>false</array>
         <attributes/>
-        <audit>false</audit>
+        <audit>true</audit>
         <calculation/>
         <choice>1</choice>
         <choice_field/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
         <sys_update_name>sys_dictionary_x_1027446_case_m_0_cm_requestdetails_status</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-16 11:32:20</sys_updated_on>
+        <sys_updated_on>2023-05-22 12:35:46</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Home">b72839a7d63529100f2ca1f7511d4d57</macroponent>
+        <name>button_1/NODE__isHidden</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[// if (gs.hasRole('x_1027446_case_m_0.user')) true;
+// else true;
+'1']]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-22 13:44:22</sys_created_on>
+        <sys_id>7c257c182fcfa510075dd3f62799b6cc</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>button_1/NODE__isHidden</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_ux_client_script_7c257c182fcfa510075dd3f62799b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-22 14:00:35</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</application>
+        <file_path/>
+        <instance_id>bf103a51dbb16554b847ac44d4961994</instance_id>
+        <instance_name>dev168311</instance_name>
+        <name>sys_ux_client_script_7c257c182fcfa510075dd3f62799b6cc</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Home"&gt;b72839a7d63529100f2ca1f7511d4d57&lt;/macroponent&gt;&lt;name&gt;button_1/NODE__isHidden&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[ ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[// if (gs.hasRole('x_1027446_case_m_0.user')) true;
+// else true;
+'1']]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-05-22 13:44:22&lt;/sys_created_on&gt;&lt;sys_id&gt;7c257c182fcfa510075dd3f62799b6cc&lt;/sys_id&gt;&lt;sys_mod_count&gt;10&lt;/sys_mod_count&gt;&lt;sys_name&gt;button_1/NODE__isHidden&lt;/sys_name&gt;&lt;sys_package display_value="Case Management" source="x_1027446_case_m_0"&gt;6de420971b31e5106f0197d7bd4bcb3a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Case Management"&gt;6de420971b31e5106f0197d7bd4bcb3a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_7c257c182fcfa510075dd3f62799b6cc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-05-22 14:00:35&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-17200586</payload_hash>
+        <record_name>button_1/NODE__isHidden</record_name>
+        <reverted_from/>
+        <source>156a5a1c2fbaa110075dd3f62799b615</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-22 14:00:36</sys_created_on>
+        <sys_id>52d8f4902f03e510075dd3f62799b615</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18843c30c950000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-22 14:00:36</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>1ad8f4906e03e51052d4b203a055c714</update_guid>
+        <update_guid_history>1ad8f4906e03e51052d4b203a055c714:-17200586,60b8b0907d03e5105fca7190990966c1:-248869097,6f5878505403e510c2f4e410f5189121:-1973663155,0b387450d803e5105fd4ffc19565f76f:-1741994644,f0087c106803e510c9206e71d4cb24f2:607379036,44d7f4108903e510c70c624d077459e7:-1874622259,c4773cdc35cfa51082a5aa8a28777c73:-377371445,f85738dc0ccfa5107144aa78906e30fe:645965078,dfc6789cb8cfa51056481cd9cd93a68e:-1704248898,3565b01ca3cfa5106068ff8b4cc91cec:1403146852,7825b8d81acfa510c88f9bfd054aa6b4:272179754</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-22 14:01:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>112a401489b14fec853b59a6efaa4289</sys_id>
+        <sys_metadata>7c257c182fcfa510075dd3f62799b6cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>button_1/NODE__isHidden</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_scope_delete display_value="">2cda97cdf53c4c909cf58481df932639</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_7c257c182fcfa510075dd3f62799b6cc</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_7c257c182fcfa510075dd3f62799b6cc">52d8f4902f03e510075dd3f62799b615</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-22 14:01:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

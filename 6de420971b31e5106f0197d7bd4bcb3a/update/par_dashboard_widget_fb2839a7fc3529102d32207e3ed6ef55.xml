@@ -2,24 +2,24 @@
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">f32839a786352910f8605be72efdcb54</canvas>
         <component display_value="">7219cee4e0177c3cf2e48d550ce0f71b</component>
-        <component_props>{"listTitle":null,"table":"x_1027446_case_m_0_cm_requestdetails","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","columns":"number,status,description,request_owner,sys_updated_on","groupByField":"","limit":5,"maxColumns":5,"page":1,"highlightedValueConfigId":"","hideHighlightedValues":false,"hideHeader":true,"hideTitle":false,"hideTitleRowCount":false,"hideRefreshButton":false,"hideLastRefreshedText":false,"hideColumnResizing":true,"hideColumnGrouping":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hidePersonalization":true,"hideColumnReorder":true,"hideDotwalk":true,"hideInlineEditing":true,"hideHighlightContent":false,"highlightContent":"{ \"patterns\": [], \"color\" : \"\" }","hideLinks":false,"hideViewAll":false,"hideCellFilter":true,"hideCheckboxHover":true,"hideFilterPanel":false,"hideFirstPage":false,"hideLastPage":false,"hideLimitSelector":false,"hideMenuButton":true,"hideMultiEdit":false,"hideDeclarativeActions":false,"hideNextPage":false,"hidePages":false,"hidePagination":true,"hidePanel":true,"hidePanelAdvanced":false,"hidePanelConditionDelete":false,"hidePanelFooter":false,"hidePanelRestore":false,"hidePreviousPage":false,"hideQuickEdit":true,"hideRange":false,"hideRowCount":false,"hideRowSelector":false,"hideSelectAll":true,"hideEmptyStateImage":false,"hideDBViews":false,"hideUnnecessaryRowSelectors":true,"overrideWordWrapUserPref":false,"wordWrap":false,"maxCharLimit":4000,"refreshRequested":"","recordSelectedTable":"","recordSelectedSysId":"","recordSelectedQuery":"","recordSelectedView":""}</component_props>
+        <component_props>{"listTitle":"Request Details","table":"x_1027446_case_m_0_cm_requestdetails","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","columns":"number,status,description,request_owner,sys_updated_on","groupByField":"","limit":5,"maxColumns":5,"page":1,"highlightedValueConfigId":"","hideHighlightedValues":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":true,"hideRefreshButton":false,"hideLastRefreshedText":true,"hideColumnResizing":true,"hideColumnGrouping":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hidePersonalization":true,"hideColumnReorder":true,"hideDotwalk":true,"hideInlineEditing":true,"hideHighlightContent":false,"highlightContent":"{ \"patterns\": [], \"color\" : \"\" }","hideLinks":false,"hideViewAll":false,"hideCellFilter":true,"hideCheckboxHover":true,"hideFilterPanel":false,"hideFirstPage":false,"hideLastPage":false,"hideLimitSelector":false,"hideMenuButton":true,"hideMultiEdit":false,"hideDeclarativeActions":false,"hideNextPage":false,"hidePages":false,"hidePagination":true,"hidePanel":true,"hidePanelAdvanced":false,"hidePanelConditionDelete":false,"hidePanelFooter":false,"hidePanelRestore":false,"hidePreviousPage":false,"hideQuickEdit":true,"hideRange":false,"hideRowCount":false,"hideRowSelector":false,"hideSelectAll":true,"hideEmptyStateImage":false,"hideDBViews":false,"hideUnnecessaryRowSelectors":true,"overrideWordWrapUserPref":false,"wordWrap":false,"maxCharLimit":4000,"refreshRequested":"","recordSelectedTable":"","recordSelectedSysId":"","recordSelectedQuery":"","recordSelectedView":""}</component_props>
         <h>15</h>
         <name/>
         <sys_class_name>par_dashboard_widget</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-31 17:39:07</sys_created_on>
         <sys_id>fb2839a7fc3529102d32207e3ed6ef55</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
         <sys_update_name>par_dashboard_widget_fb2839a7fc3529102d32207e3ed6ef55</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-12 08:20:28</sys_updated_on>
+        <sys_updated_on>2023-05-22 08:27:07</sys_updated_on>
         <visualization/>
         <w>12</w>
         <x>0</x>
-        <y>16</y>
+        <y>20</y>
     </par_dashboard_widget>
 </record_update>

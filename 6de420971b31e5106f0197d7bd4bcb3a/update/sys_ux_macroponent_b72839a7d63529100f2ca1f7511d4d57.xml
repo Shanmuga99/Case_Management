@@ -253,8 +253,14 @@
           },
           "overrides" : null,
           "isHidden" : {
-            "type" : "JSON_LITERAL",
-            "value" : null
+            "type" : "CLIENT_TRANSFORM_SCRIPT",
+            "script" : {
+              "apiVersion" : "2.0.0",
+              "controllerElementId" : null,
+              "inlineScript" : null,
+              "scriptSysId" : "13c9bc902f03e510075dd3f62799b6db",
+              "target" : null
+            }
           },
           "isHero" : false,
           "extensionPoints" : [ ],
@@ -507,14 +513,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-31 17:39:07</sys_created_on>
         <sys_id>b72839a7d63529100f2ca1f7511d4d57</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Home</sys_name>
         <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
         <sys_update_name>sys_ux_macroponent_b72839a7d63529100f2ca1f7511d4d57</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-18 07:31:48</sys_updated_on>
+        <sys_updated_on>2023-05-22 14:04:46</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=b72839a7d63529100f2ca1f7511d4d57"/>
 </record_update>

@@ -32,7 +32,7 @@
                 <element inactive_on_update="false" label="Completed" sequence="2" value="completed"/>
             </choice>
         </element>
-        <element choice="1" label="Status" max_length="40" name="status" read_only="true" type="string">
+        <element audit="true" choice="1" label="Status" max_length="40" name="status" read_only="true" type="string">
             <choice>
                 <element inactive_on_update="false" label="Submitted" sequence="0" value="Submitted"/>
                 <element inactive_on_update="false" label="Approved by Reviewer" sequence="1" value="Approved by Reviewer"/>
@@ -55,7 +55,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="End date" max_length="40" name="u_glide_date_13" type="glide_date"/>
-        <element attributes="base_start=true" default="x_1027446_case_m_0_cm_functionalteamsdetails" label="New Table Name" max_length="80" name="u_table_name_3" type="table_name"/>
+        <element attributes="base_start=true" audit="true" default="x_1027446_case_m_0_cm_functionalteamsdetails" label="New Table Name" max_length="80" name="u_table_name_3" type="table_name"/>
         <index name="index">
             <element name="request_owner"/>
         </index>
