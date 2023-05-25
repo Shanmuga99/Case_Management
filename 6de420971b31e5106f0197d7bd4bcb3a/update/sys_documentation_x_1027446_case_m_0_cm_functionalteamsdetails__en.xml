@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="CM_FunctionalTeamsDetails" language="en" table="x_1027446_case_m_0_cm_functionalteamsdetails">
+    <sys_documentation element="" label="Functional Teams Details" language="en" table="x_1027446_case_m_0_cm_functionalteamsdetails">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>CM_FunctionalTeamsDetails</label>
+            <label>Functional Teams Details</label>
             <language>en</language>
             <name>x_1027446_case_m_0_cm_functionalteamsdetails</name>
-            <plural>CM_FunctionalTeamsDetails</plural>
+            <plural>Functional Teams Details</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-03-31 10:16:21</sys_created_on>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>CM_FunctionalTeamsDetails</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Functional Teams Details</sys_name>
             <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
             <sys_policy/>
             <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
             <sys_update_name>sys_documentation_x_1027446_case_m_0_cm_functionalteamsdetails__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-31 10:16:21</sys_updated_on>
+            <sys_updated_on>2023-05-23 08:19:28</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

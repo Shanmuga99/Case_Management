@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action">
+    <sys_ux_form_action action="INSERT_OR_UPDATE">
+        <action_type>ui_action</action_type>
+        <active>true</active>
+        <declarative_action/>
+        <description/>
+        <name>Resubmit</name>
+        <specificity>0</specificity>
+        <sys_class_name>sys_ux_form_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-23 07:39:11</sys_created_on>
+        <sys_id>452b682c2f4b2910075dd3f62799b667</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resubmit</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_ux_form_action_452b682c2f4b2910075dd3f62799b667</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-23 07:39:11</sys_updated_on>
+        <table>global</table>
+        <ui_action display_value="Resubmit">71aa2ce82f4b2910075dd3f62799b6c0</ui_action>
+    </sys_ux_form_action>
+</record_update>

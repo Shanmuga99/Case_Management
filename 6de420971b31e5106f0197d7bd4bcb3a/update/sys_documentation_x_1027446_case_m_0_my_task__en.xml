@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="My Task " language="en" table="x_1027446_case_m_0_my_task">
+    <sys_documentation element="" label="Task" language="en" table="x_1027446_case_m_0_my_task">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>My Task </label>
+            <label>Task</label>
             <language>en</language>
             <name>x_1027446_case_m_0_my_task</name>
-            <plural>My Task s</plural>
+            <plural>Tasks</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-04-07 17:26:02</sys_created_on>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>My Task</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Task</sys_name>
             <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
             <sys_policy/>
             <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
             <sys_update_name>sys_documentation_x_1027446_case_m_0_my_task__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 17:26:02</sys_updated_on>
+            <sys_updated_on>2023-05-23 08:19:40</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

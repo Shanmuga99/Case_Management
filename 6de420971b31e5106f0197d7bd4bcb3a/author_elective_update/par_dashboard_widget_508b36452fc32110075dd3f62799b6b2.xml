@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">f32839a786352910f8605be72efdcb54</canvas>
+        <component display_value="">b999eb8ac52f85df203e43cbf2352fde</component>
+        <component_props>{"filterId":"1h18t36e3n3p11uio4dg","filterName":"Status","filterProperties":"{\"tablefields\":[{\"table\":{\"id\":\"x_1027446_case_m_0_cm_requestdetails\",\"label\":\"Request Details\",\"count\":8,\"hierarchy\":null},\"field\":{\"id\":\"status\",\"label\":\"Status\",\"type\":\"choice\",\"reference\":null}}],\"defaults\":[],\"booleanLabels\":{},\"emptyOption\":null,\"maxElements\":500}","filterConfigurations":{}}</component_props>
+        <h>12</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-25 07:26:53</sys_created_on>
+        <sys_id>508b36452fc32110075dd3f62799b6b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>par_dashboard_widget_508b36452fc32110075dd3f62799b6b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-25 07:26:53</sys_updated_on>
+        <visualization/>
+        <w>11</w>
+        <x>0</x>
+        <y>33</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</application>
+        <file_path/>
+        <instance_id>bf103a51dbb16554b847ac44d4961994</instance_id>
+        <instance_name>dev168311</instance_name>
+        <name>par_dashboard_widget_508b36452fc32110075dd3f62799b6b2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">f32839a786352910f8605be72efdcb54</canvas><component display_value="">b999eb8ac52f85df203e43cbf2352fde</component><component_props>{"filterId":"1h18t36e3n3p11uio4dg","filterName":"Status","filterProperties":"{\"tablefields\":[{\"table\":{\"id\":\"x_1027446_case_m_0_cm_requestdetails\",\"label\":\"Request Details\",\"count\":8,\"hierarchy\":null},\"field\":{\"id\":\"status\",\"label\":\"Status\",\"type\":\"choice\",\"reference\":null}}],\"defaults\":[],\"booleanLabels\":{},\"emptyOption\":null,\"maxElements\":500}","filterConfigurations":{}}</component_props><h>12</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-25 07:26:53</sys_created_on><sys_id>508b36452fc32110075dd3f62799b6b2</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package><sys_policy/><sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope><sys_update_name>par_dashboard_widget_508b36452fc32110075dd3f62799b6b2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-25 07:26:53</sys_updated_on><visualization/><w>11</w><x>0</x><y>33</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1655852814</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>156a5a1c2fbaa110075dd3f62799b615</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-25 07:26:53</sys_created_on>
+        <sys_id>1c8b72092fc32110075dd3f62799b603</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18851cdabaa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-25 07:26:53</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>548b72098ac321103334ee7d3e6e4c03</update_guid>
+        <update_guid_history>548b72098ac321103334ee7d3e6e4c03:1655852814</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">672cb2492fc32110075dd3f62799b6e8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-25 07:29:50</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>146114c267734251af5604dad139eca9</sys_id>
+        <sys_metadata>508b36452fc32110075dd3f62799b6b2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_scope_delete display_value="">2cda97cdf53c4c909cf58481df932639</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_508b36452fc32110075dd3f62799b6b2</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_508b36452fc32110075dd3f62799b6b2">1c8b72092fc32110075dd3f62799b603</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-25 07:29:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
