@@ -13,20 +13,17 @@
         <script><![CDATA[function onLoad() {
     //Type appropriate comment here, and begin script below
     var userId = g_user.userID;
-    var getStatus = g_form.getValue("status");
+    var getStatus = g_form.getValue('status');
     var reviewer = g_form.getValue('request_reviewer');
     var requestOwner = g_form.getValue('request_owner');
     var isApproveRequired = g_form.getValue('is_approval_required');
     var isRecurrence = g_form.getValue('is_recurring');
-    if ((getStatus != 'Send Back' && !(g_form.isNewRecord()))) {
+
+    if (((getStatus != 'Sent Back') && (!(g_form.isNewRecord())))) {
         g_form.setReadOnly('due_date', true);
         g_form.setReadOnly('description', true);
-        if (g_user.hasRole('x_1027446_case_m_0.functional')) {
-            g_form.setReadOnly('comments', false);
+        g_form.setReadOnly('comments', true);
 
-        } else {
-            g_form.setReadOnly('comments', true);
-        }
         if (isApproveRequired) {
             g_form.setReadOnly('is_approval_required', true);
             g_form.setReadOnly('request_reviewer', true);
@@ -47,7 +44,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6a95f3892f4b2110075dd3f62799b6d5</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_name>Read Only script</sys_name>
         <sys_overrides/>
         <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
@@ -55,7 +52,7 @@
         <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
         <sys_update_name>sys_script_client_6a95f3892f4b2110075dd3f62799b6d5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-25 13:02:01</sys_updated_on>
+        <sys_updated_on>2023-05-28 17:15:10</sys_updated_on>
         <table>x_1027446_case_m_0_cm_requestdetails</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>
