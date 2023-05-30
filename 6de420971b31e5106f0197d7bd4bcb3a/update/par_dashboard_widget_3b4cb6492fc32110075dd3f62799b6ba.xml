@@ -2,24 +2,24 @@
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">f32839a786352910f8605be72efdcb54</canvas>
         <component display_value="">b999eb8ac52f85df203e43cbf2352fde</component>
-        <component_props>{"filterId":"1h18tacgfq6ne0f4hg08","filterName":"Status","filterProperties":"{\"tablefields\":[{\"table\":{\"id\":\"x_1027446_case_m_0_cm_requestdetails\",\"label\":\"Request Details\",\"count\":7,\"hierarchy\":null},\"field\":{\"id\":\"status\",\"label\":\"Status\",\"type\":\"choice\",\"reference\":null}}],\"defaults\":[],\"booleanLabels\":{},\"emptyOption\":null,\"maxElements\":500,\"encodedQuery\":null,\"choices\":[{\"value\":\"\",\"selected\":true},{\"value\":\"Submitted\",\"selected\":true},{\"value\":\"Approved by Reviewer\",\"selected\":true},{\"value\":\"Approved by Functional team\",\"selected\":true},{\"value\":\"Completed\",\"selected\":true},{\"value\":\"Sent Back\",\"selected\":true},{\"value\":\"Cancelled\",\"selected\":true},{\"value\":\"test\",\"selected\":false}],\"sort\":\"ASC\"}","filterConfigurations":{}}</component_props>
+        <component_props>{"filterId":"1h18tacgfq6ne0f4hg08","filterName":"Status","filterProperties":"{\"tablefields\":[{\"table\":{\"id\":\"x_1027446_case_m_0_cm_requestdetails\",\"label\":\"Request Details\",\"count\":7,\"hierarchy\":null},\"field\":{\"id\":\"status\",\"label\":\"Status\",\"type\":\"choice\",\"reference\":null}}],\"defaults\":[],\"booleanLabels\":{},\"emptyOption\":null,\"maxElements\":500,\"encodedQuery\":null,\"choices\":[{\"value\":\"\",\"selected\":true},{\"value\":\"Submitted\",\"selected\":true},{\"value\":\"Approved by Reviewer\",\"selected\":true},{\"value\":\"Approved by Functional team\",\"selected\":true},{\"value\":\"Completed\",\"selected\":true},{\"value\":\"Sent Back\",\"selected\":true},{\"value\":\"Cancelled\",\"selected\":true},{\"value\":\"test\",\"selected\":false}],\"sort\":\"ASC\"}","filterConfigurations":[]}</component_props>
         <h>3</h>
         <name/>
         <sys_class_name>par_dashboard_widget</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-05-25 07:30:23</sys_created_on>
         <sys_id>3b4cb6492fc32110075dd3f62799b6ba</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
         <sys_update_name>par_dashboard_widget_3b4cb6492fc32110075dd3f62799b6ba</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-25 07:30:23</sys_updated_on>
+        <sys_updated_on>2023-05-29 08:17:06</sys_updated_on>
         <visualization/>
-        <w>4</w>
+        <w>1</w>
         <x>0</x>
-        <y>18</y>
+        <y>32</y>
     </par_dashboard_widget>
 </record_update>
