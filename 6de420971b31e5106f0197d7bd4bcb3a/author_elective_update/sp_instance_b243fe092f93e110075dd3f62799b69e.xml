@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>5</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">b4b27a492f93e110075dd3f62799b679</sp_column>
+        <sp_widget display_value="cloud admin half Chart">6dfbf4710b9732003bace58525673a0b</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-06 17:06:42</sys_created_on>
+        <sys_id>b243fe092f93e110075dd3f62799b69e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sp_instance_b243fe092f93e110075dd3f62799b69e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-06 17:07:31</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=b243fe092f93e110075dd3f62799b69e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</application>
+        <file_path/>
+        <instance_id>bf103a51dbb16554b847ac44d4961994</instance_id>
+        <instance_name>dev168311</instance_name>
+        <name>sp_instance_b243fe092f93e110075dd3f62799b69e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>5</order><roles/><short_description/><size>md</size><sp_column display_value="1">b4b27a492f93e110075dd3f62799b679</sp_column><sp_widget display_value="cloud admin half Chart">6dfbf4710b9732003bace58525673a0b</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-06 17:06:42</sys_created_on><sys_id>b243fe092f93e110075dd3f62799b69e</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package><sys_policy/><sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope><sys_update_name>sp_instance_b243fe092f93e110075dd3f62799b69e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-06 17:07:31</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=b243fe092f93e110075dd3f62799b69e"/></record_update>]]></payload>
+        <payload_hash>1133855140</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>156a5a1c2fbaa110075dd3f62799b615</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-06 17:07:31</sys_created_on>
+        <sys_id>a2737e892f93e110075dd3f62799b6be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18891ad92200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-06 17:07:31</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>aa737e89c093e11053d5019a4999ffbd</update_guid>
+        <update_guid_history>aa737e89c093e11053d5019a4999ffbd:1133855140,fa43fe097093e110417736baa2cfaf9f:1934922501</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">b6c3f6092f93e110075dd3f62799b6c2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-06 17:08:53</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>022a9316a5e4474e80cd21c5d10d4f71</sys_id>
+        <sys_metadata>b243fe092f93e110075dd3f62799b69e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_scope_delete display_value="">2cda97cdf53c4c909cf58481df932639</sys_scope_delete>
+        <sys_update_name>sp_instance_b243fe092f93e110075dd3f62799b69e</sys_update_name>
+        <sys_update_version display_value="sp_instance_b243fe092f93e110075dd3f62799b69e">a2737e892f93e110075dd3f62799b6be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-06 17:08:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

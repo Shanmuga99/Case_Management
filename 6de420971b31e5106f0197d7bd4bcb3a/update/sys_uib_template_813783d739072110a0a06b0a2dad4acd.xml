@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_template">
+    <sys_uib_template action="INSERT_OR_UPDATE">
+        <associated_types>f198e5625311101017caddeeff7b120d,dcc732935301101017caddeeff7b1255</associated_types>
+        <description/>
+        <image display_value="ui-builder-templates-one-region.svg">a560964877311010d99bbc3f681061ce</image>
+        <label>Portal Page with Background</label>
+        <macroponent display_value="Portal Page">853783d70d0721104d2dff08400a36cd</macroponent>
+        <macroponent_config/>
+        <optional_properties/>
+        <order>0</order>
+        <required_properties/>
+        <sys_class_name>sys_uib_template</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-01 08:04:25</sys_created_on>
+        <sys_id>813783d739072110a0a06b0a2dad4acd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal Page with Background</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_uib_template_813783d739072110a0a06b0a2dad4acd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-01 08:04:25</sys_updated_on>
+        <type/>
+    </sys_uib_template>
+</record_update>

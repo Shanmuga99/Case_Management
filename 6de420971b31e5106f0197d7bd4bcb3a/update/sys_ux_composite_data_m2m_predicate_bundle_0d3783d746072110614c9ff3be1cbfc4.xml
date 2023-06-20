@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">813783d7370721104ab449f7cf050ac6</dataset>
+        <order/>
+        <predicate_bundle display_value="My requests - incident bundle">013783d743072110dc1716d3b8cbbbc5</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-01 08:04:23</sys_created_on>
+        <sys_id>0d3783d746072110614c9ff3be1cbfc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_0d3783d746072110614c9ff3be1cbfc4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-01 08:04:23</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

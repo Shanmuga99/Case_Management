@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>3_custom_portal_approval_x_1027446_case_m_0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-01 08:04:27</sys_created_on>
+        <sys_id>893783d724072110f4377e64987bdfcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3_custom_portal_approval_x_1027446_case_m_0</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sys_ui_view_893783d724072110f4377e64987bdfcc</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-01 08:04:27</sys_updated_on>
+        <title>3_custom_portal_approval_x_1027446_case_m_0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

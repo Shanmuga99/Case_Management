@@ -8,14 +8,14 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>DIRECT</link_type>
         <map_page/>
         <mobile_title>Requests </mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_1027446_case_m_0_cm_requestdetails</name>
         <order>2</order>
         <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <query>https://dev168311.service-now.com/cm?id=index</query>
         <report/>
         <roles>x_1027446_case_m_0.admin,x_1027446_case_m_0.functional,x_1027446_case_m_0.manager,x_1027446_case_m_0.user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1d1b2a052f4aa110075dd3f62799b627</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Requests </sys_name>
         <sys_overrides/>
         <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
@@ -32,11 +32,11 @@
         <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
         <sys_update_name>sys_app_module_1d1b2a052f4aa110075dd3f62799b627</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-05 13:13:57</sys_updated_on>
+        <sys_updated_on>2023-06-06 17:49:14</sys_updated_on>
         <timeline_page/>
         <title>Requests </title>
         <uncancelable>false</uncancelable>
         <view_name>Requests</view_name>
-        <window_name/>
+        <window_name>_blank</window_name>
     </sys_app_module>
 </record_update>

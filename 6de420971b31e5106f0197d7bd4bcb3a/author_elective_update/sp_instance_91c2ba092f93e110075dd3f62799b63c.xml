@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">b4b27a492f93e110075dd3f62799b679</sp_column>
+        <sp_widget display_value="MyGrid">b84e227013176200ca9d5f7f3244b019</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-06 17:04:25</sys_created_on>
+        <sys_id>91c2ba092f93e110075dd3f62799b63c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sp_instance_91c2ba092f93e110075dd3f62799b63c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-06 17:04:25</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=91c2ba092f93e110075dd3f62799b63c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</application>
+        <file_path/>
+        <instance_id>bf103a51dbb16554b847ac44d4961994</instance_id>
+        <instance_name>dev168311</instance_name>
+        <name>sp_instance_91c2ba092f93e110075dd3f62799b63c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>2</order><roles/><short_description/><size>md</size><sp_column display_value="1">b4b27a492f93e110075dd3f62799b679</sp_column><sp_widget display_value="MyGrid">b84e227013176200ca9d5f7f3244b019</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-06 17:04:25</sys_created_on><sys_id>91c2ba092f93e110075dd3f62799b63c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package><sys_policy/><sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope><sys_update_name>sp_instance_91c2ba092f93e110075dd3f62799b63c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-06 17:04:25</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=91c2ba092f93e110075dd3f62799b63c"/></record_update>]]></payload>
+        <payload_hash>-981733949</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>156a5a1c2fbaa110075dd3f62799b615</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-06 17:04:26</sys_created_on>
+        <sys_id>61c2ba092f93e110075dd3f62799b63e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18891aabf440000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-06 17:04:26</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>a9c2ba094293e1101c5f4f5a27f9723d</update_guid>
+        <update_guid_history>a9c2ba094293e1101c5f4f5a27f9723d:-981733949</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">18677a412fd3e110075dd3f62799b64b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-06 17:24:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>6627a97e837d494c8a3b3f0124aceee4</sys_id>
+        <sys_metadata>91c2ba092f93e110075dd3f62799b63c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_scope_delete display_value="">2cda97cdf53c4c909cf58481df932639</sys_scope_delete>
+        <sys_update_name>sp_instance_91c2ba092f93e110075dd3f62799b63c</sys_update_name>
+        <sys_update_version display_value="sp_instance_91c2ba092f93e110075dd3f62799b63c">61c2ba092f93e110075dd3f62799b63e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-06 17:24:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -14,6 +14,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-03-31 17:13:32</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-08 10:48:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5df67692f9ba110075dd3f62799b6fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1027446_case_m_0_cm_requestdetails" name="x_1027446_case_m_0_cm_requestdetails" sys_domain="global" view="Default view">a95279231b3529106f0197d7bd4bcb5e</sys_ui_form>
+            <sys_ui_section caption="Recurring Section" display_value="Recurring Section" name="x_1027446_case_m_0_cm_requestdetails" sys_domain="global" view="Default view">35df67692f9ba110075dd3f62799b6f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-08 10:48:12</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1027446_case_m_0_cm_requestdetails</name>
             <roles/>

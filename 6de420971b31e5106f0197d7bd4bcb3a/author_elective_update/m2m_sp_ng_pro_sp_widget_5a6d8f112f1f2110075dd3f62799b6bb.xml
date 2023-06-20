@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget">
+    <m2m_sp_ng_pro_sp_widget action="DELETE">
+        <sp_angular_provider display_value="spAttachmentManager">06e836f0d722120023c84f80de6103a1</sp_angular_provider>
+        <sp_widget display_value="Copy of Form">966d8f112f1f2110075dd3f62799b6b8</sp_widget>
+        <sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-07 13:39:18</sys_created_on>
+        <sys_id>5a6d8f112f1f2110075dd3f62799b6bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>spAttachmentManager.Copy of Form</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_5a6d8f112f1f2110075dd3f62799b6bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-07 13:39:18</sys_updated_on>
+    </m2m_sp_ng_pro_sp_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</application>
+        <file_path/>
+        <instance_id>bf103a51dbb16554b847ac44d4961994</instance_id>
+        <instance_name>dev168311</instance_name>
+        <name>m2m_sp_ng_pro_sp_widget_5a6d8f112f1f2110075dd3f62799b6bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget"><m2m_sp_ng_pro_sp_widget action="INSERT_OR_UPDATE"><sp_angular_provider display_value="spAttachmentManager">06e836f0d722120023c84f80de6103a1</sp_angular_provider><sp_widget display_value="Copy of Form">966d8f112f1f2110075dd3f62799b6b8</sp_widget><sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-07 13:39:18</sys_created_on><sys_id>5a6d8f112f1f2110075dd3f62799b6bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>spAttachmentManager.Copy of Form</sys_name><sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package><sys_policy/><sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope><sys_update_name>m2m_sp_ng_pro_sp_widget_5a6d8f112f1f2110075dd3f62799b6bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-07 13:39:18</sys_updated_on></m2m_sp_ng_pro_sp_widget></record_update>]]></payload>
+        <payload_hash>339573365</payload_hash>
+        <record_name>spAttachmentManager.Copy of Form</record_name>
+        <reverted_from/>
+        <source>156a5a1c2fbaa110075dd3f62799b615</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-07 13:39:18</sys_created_on>
+        <sys_id>d66d03d92f1f2110075dd3f62799b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18896154bac0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-07 13:39:18</sys_updated_on>
+        <type>Angular Providers</type>
+        <update_guid>126d03d9071f21109b4aa82209968961</update_guid>
+        <update_guid_history>126d03d9071f21109b4aa82209968961:339573365</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="spAttachmentManager.Copy of Form">4cfb1cf12fdfa110075dd3f62799b65f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-08 14:00:52</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_ng_pro_sp_widget">m2m_sp_ng_pro_sp_widget</sys_db_object>
+        <sys_id>0001d9cf8cdd43c1a933da7b3c9a5e31</sys_id>
+        <sys_metadata>5a6d8f112f1f2110075dd3f62799b6bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>spAttachmentManager.Copy of Form</sys_name>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_scope_delete display_value="">2cda97cdf53c4c909cf58481df932639</sys_scope_delete>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_5a6d8f112f1f2110075dd3f62799b6bb</sys_update_name>
+        <sys_update_version display_value="m2m_sp_ng_pro_sp_widget_5a6d8f112f1f2110075dd3f62799b6bb">d66d03d92f1f2110075dd3f62799b661</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-08 14:00:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

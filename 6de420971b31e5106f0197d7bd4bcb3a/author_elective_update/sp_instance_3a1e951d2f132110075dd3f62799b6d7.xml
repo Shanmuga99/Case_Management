@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>6</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">770e1dd92f132110075dd3f62799b64c</sp_column>
+        <sp_widget display_value="Form">fd1f4ec347730200ba13a5554ee490c0</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-07 05:32:59</sys_created_on>
+        <sys_id>3a1e951d2f132110075dd3f62799b6d7</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_update_name>sp_instance_3a1e951d2f132110075dd3f62799b6d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-08 07:54:13</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"disableUIActions": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"showFormView": {
+		"value": "",
+		"displayValue": ""
+	},
+	"omitHeaderOptions": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=3a1e951d2f132110075dd3f62799b6d7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</application>
+        <file_path/>
+        <instance_id>bf103a51dbb16554b847ac44d4961994</instance_id>
+        <instance_name>dev168311</instance_name>
+        <name>sp_instance_3a1e951d2f132110075dd3f62799b6d7</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;6&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;770e1dd92f132110075dd3f62799b64c&lt;/sp_column&gt;&lt;sp_widget display_value="Form"&gt;fd1f4ec347730200ba13a5554ee490c0&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-06-07 05:32:59&lt;/sys_created_on&gt;&lt;sys_id&gt;3a1e951d2f132110075dd3f62799b6d7&lt;/sys_id&gt;&lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Case Management" source="x_1027446_case_m_0"&gt;6de420971b31e5106f0197d7bd4bcb3a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Case Management"&gt;6de420971b31e5106f0197d7bd4bcb3a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_3a1e951d2f132110075dd3f62799b6d7&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-06-08 07:54:13&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"disableUIActions": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"showFormView": {
+		"value": "",
+		"displayValue": ""
+	},
+	"omitHeaderOptions": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=3a1e951d2f132110075dd3f62799b6d7"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1030918837</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>156a5a1c2fbaa110075dd3f62799b615</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-08 07:54:13</sys_created_on>
+        <sys_id>dd0803a52f97a110075dd3f62799b66b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18899ffbac40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-08 07:54:13</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>d50803a5f897a110f69bf10b5f1cde6b</update_guid>
+        <update_guid_history>d50803a5f897a110f69bf10b5f1cde6b:1030918837,9cf74f658997a110130c508b2da114cc:-157964428,15cf47dd001f2110d1d47fb3f298c7ec:1030918837,37afc3dde71f21101e36d25cd7bfa96b:-157964428,928fcf9d3a1f211086ca468bb1691010:1030918837,7d7f0f9d6f1f2110105de8a9f5e1a8a5:-2075165194,b96e4f1d5d1f21100cf1c6446102dbb1:1030918837,8d5607dd6fdb211003c1a60508bdc04e:-157964428,f8c5479d5fdb21109497c65db7b40200:-1346847693,1ab54b5da9db2110d2846c94421e313c:1759236338,2c3e191d991321105c8ed6381bdb0d40:570353073,3e1e951dda132110841ccd59856043d8:-1095149199</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">c92843a52f97a110075dd3f62799b6c9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-08 07:54:45</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>1106968735cb42efab27ca8851af78f9</sys_id>
+        <sys_metadata>3a1e951d2f132110075dd3f62799b6d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Management" source="x_1027446_case_m_0">6de420971b31e5106f0197d7bd4bcb3a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">6de420971b31e5106f0197d7bd4bcb3a</sys_scope>
+        <sys_scope_delete display_value="">2cda97cdf53c4c909cf58481df932639</sys_scope_delete>
+        <sys_update_name>sp_instance_3a1e951d2f132110075dd3f62799b6d7</sys_update_name>
+        <sys_update_version display_value="sp_instance_3a1e951d2f132110075dd3f62799b6d7">dd0803a52f97a110075dd3f62799b66b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-08 07:54:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
